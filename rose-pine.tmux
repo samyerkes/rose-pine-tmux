@@ -2,9 +2,7 @@
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # title      Rose Pine                                                +
 # version    0.0.1                                                    +
-# repository https://github.com/vladovidiu/rose-pine-tmux             +
-# author     Vlad Tutunea                                             +
-# email      vladtutunea@duck.com                                     +
+# repository https://github.com/samyerkes/rose-pine-tmux             +
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ROSE_PINE="src/rose-pine.conf" 

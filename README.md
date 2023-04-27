@@ -1,13 +1,12 @@
 # Rose Pine Tmux
 
-All natural pine, faux fur and a bit of soho vibes for the classy minimalist. [Rose Pine](https://rosepinetheme.com/)
+All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+[Rose Pine](https://rosepinetheme.com/)
 
-### Installation using TPM
+## Installation using TPM
 
 In your `tmux.conf`:
-```
-set -g @plugin "vladovidiu/rose-pine-tmux"
-```
 
-### Snapshots
-TBA
+```text
+set -g @plugin "samyerkes/rose-pine-tmux"
+```
